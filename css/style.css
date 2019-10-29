@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  background: #f4f4f4;
+  font-family: 'Open Sans', sans-serif !important;
+}
+
+.main-color {
+  background: #f56 !important;
+  color: #fff !important;
+}
+
+/* Progress Bar */
+.progress-bar {
+  background: #f65 !important;
+}
+
+nav {
+  background: #f56;
+}
+
+.navbar {
+  min-height: 33px !important;
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+.navbar li a {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  color: #fff;
+}
+/*# sourceMappingURL=style.css.map */
